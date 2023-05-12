@@ -1,0 +1,1594 @@
+
+<!doctype html>
+<html lang="en">
+ <head>   
+    <!--====== Required meta tags ======-->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+	    <meta name="description" content="Fit India trust provides a best knowledge in industry">
+    <meta name="keyword" content="cpt,online cpt, personal trainer course, fitness course, gym course, exercise course">
+    <title>Certified Personal Trainer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="https://www.fitindiatrust.org/fit_assets/img/icon-fit.png" type="image/png">
+    <!--====== Css ======-->
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/slick.css">
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/animate.css">
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/nice-select.css">
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/jquery.nice-number.min.css">
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/default.css">
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/style.css"> 
+    <link rel="stylesheet" href="https://www.fitindiatrust.org/fit_assets/css/responsive.css">
+  <!--  <meta name="google-site-verification" content="p_in3JrwjeR8hVMHkJqgKvE3UiOfwo5tLwHPfXNavFU" />
+     Global site tag (gtag.js) - Google Analytics 
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M2LXMZEJ5K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M2LXMZEJ5K');
+</script>
+-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MD5B5GR');</script>
+<!-- End Google Tag Manager -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Fit India Trust",
+  "alternateName": "FIT - Fitness Trainer Course",
+  "url": "https://www.fitindiatrust.org",
+  "logo": "https://www.fitindiatrust.org/fit_assets/img/logo.webp",
+  "sameAs": [
+    "facebook.com/fitindiatrust",
+    "https://twitter.com/fitindiatrust",
+    "https://www.instagram.com/fitindiatrust",
+    "https://www.youtube.com/channel/UCA2rUhM8ER2X46-YjeWr-rQ",
+    "https://www.linkedin.com/company/fit-india-trust"
+  ]
+}
+</script>
+<meta name="facebook-domain-verification" content="dq2u649avefkhxpcq4kkyk23tp9du1" />
+<style>
+     #float-icons .fa-phone {
+    font-size: 40px;
+    color: #FFFFFF;
+    background-color: #1560d1;
+    position: fixed;
+    padding: 10px 0px 0px 13px;
+    bottom: 92px;
+    left: 20px;
+    z-index: 999;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}
+#float-icons .fa-whatsapp {
+    font-size: 40px;
+    color: #FFFFFF;
+    background-color: green;
+    position: fixed;
+    padding: 10px 0px 0px 13px;
+    bottom: 20px;
+    right: 13px;
+    z-index: 999;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}
+     
+ </style>
+<style>
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 0px;
+  background-color:grey
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #5fbff9; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: blue; 
+}
+.footer-title h6
+{
+    color:#5fbff9;
+}
+.quick_links_p a
+{
+   color:white;
+    line-height:50px;
+}
+</style>
+<!--Start of Tawk.to Script-->
+<!--
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/620347aab9e4e21181be28f6/1frecvtg4';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>-->
+<!--End of Tawk.to Script-->
+    <meta property="og:site_name" content="Certified Personal Trainer">
+    <meta property="og:title" content="Certified Personal Trainer" />
+    <meta property="og:description" content="Certified Personal Trainer" />
+    <meta property="og:image" itemprop="image" content="https://www.fitindiatrust.org/fit_assets/og-link/cpt-og-link.jpeg">
+    <meta property="og:type" content="website" />
+    <meta property="og:image:type" content="image/jpeg">
+<!-- Size of image. Any size up to 300. Anything above 300px will not work in WhatsApp -->
+    <meta property="og:url" content="https://www.fitindiatrust.org/fitness-academy/personal-trainer-certification" />
+    
+
+</head>
+
+<body>
+
+   <div class="bg-white">
+
+    <!--====== PRELOADER PART START ======-->
+    <div class="preloader">
+        <div class="loader rubix-cube">
+            
+            <div class="layer layer-1"></div>
+            <div class="layer layer-2"></div>
+            <div class="layer layer-3 color-1"></div>
+            <div class="layer layer-4"></div>
+            <div class="layer layer-5"></div>
+            <div class="layer layer-6"></div>
+            <div class="layer layer-7"></div>
+            <div class="layer layer-8"></div>
+     
+   
+
+        </div>
+    </div>
+    <!--====== PRELOADER PART START ======-->
+    
+
+    <!--====== HEADER PART START ======-->    
+    <header id="header-part">
+        <div class="header-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-12">
+                        <div class="header-contact">
+                            <ul>
+                                <li><i class="fa fa-envelope"></i><a href="mailto:info@fitindiatrust.org">info@fitindiatrust.org</a></li>
+                                <li><i class="fa fa-phone"></i><span> +91-7999567519</span></li>
+                            </ul>
+                        </div> <!-- header contact -->
+                    </div>
+                    <div class="col-md-6 d-none d-lg-block">
+                        <div class="header-right d-flex justify-content-end"> 
+                            <div class="login-register">
+                                <ul>
+                                  
+                                    <li><a href="https://www.fitindiatrust.org/online_exam/">Student Login</a></li> 
+                                    <li><a href="https://www.fitindiatrust.org/fitpros/login">Login</a></li> 
+                                </ul>
+                            </div>
+                        </div> <!-- header right -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- header top -->
+        
+        <div class="navigation">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <nav class="navbar navbar-expand-lg">
+                            <a class="navbar-brand" href="https://www.fitindiatrust.org/">
+                                <img src="https://www.fitindiatrust.org/fit_assets/img/logo-2.png" alt="Logo">
+                            </a>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+
+                            <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                                <ul class="navbar-nav ml-auto">
+                                    <li class="nav-item"><a href="https://www.fitindiatrust.org/">Home</a></li>
+                                    <li class="nav-item"><a href="https://www.fitindiatrust.org/#about">About us</a></li>
+                                    <li class="nav-item">
+                                        <!--<a href="https://www.fitindiatrust.org/courses">Courses <i class="fa fa-angle-down xs-hidden"></i></a>-->
+                                        <a href="">Courses <i class="fa fa-angle-down xs-hidden"></i></a>
+                                        <ul class="sub-menu"> 
+                                           <!-- <span class="one1"> -->
+																						 <li><a href="https://www.fitindiatrust.org/fitness-academy/international-fitness-trainer">International Fitness Trainer</a></li>
+																						 <li><a href="https://www.fitindiatrust.org/fitness-academy/personal-trainer-certification">Certified Personal Trainer</a></li>
+																						 <li><a href="https://www.fitindiatrust.org/fitness-academy/fitness-nutrition-course">Fitness Nutrition Course</a></li>
+																						 <li><a href="https://www.fitindiatrust.org/fitness-academy/fitness-trainer-certification">Certified Fitness Trainer</a></li>
+												
+										<!--	<li><a href="https://www.fitindiatrust.org/fitness-academy/ace-certifications-and-offers">ACE Certifications</a></li>
+										-->	<li><a href="https://www.fitindiatrust.org/fitness-academy/ace-cpt-prep-plus-course">ACE CPT Prep Plus</a></li>
+											<li><a href="https://www.fitindiatrust.org/fitness-academy/ace-cpt-prep-and-certification">ACE Cpt Prep & Certifications</a></li>
+										 
+											 <!--<li><a href="course.php">Certified Personal Trainer</a></li>
+                                                <li><a href="course.php">Certified Fitness Trainer</a></li>
+                                                <li><a href="course.php">Sports Nutritionist</a></li>
+                                               -->
+                                           <!-- </span>
+                                     <span class="two2">
+                                                <a class="no-pad" target="_blank" href="https://www.fitindiatrust.org/fitness-academy/our-courses/"><img src="https://www.fitindiatrust.org/fit_assets/img/book.jpg" class="img-menu"></a>
+                                            </span> -->
+                                        </ul>
+                                    </li>
+                                   <li class="nav-item"><a href="https://www.fitindiatrust.org/workshop/">Workshop</a></li>
+                                   <li class="nav-item"><a href="https://www.fitindiatrust.org/blog/">Blog</a></li> 
+                                   <li class="nav-item"><a href="https://www.fitindiatrust.org/fitness-academy/">Offline Centre</a></li> 
+                                    <!--<li class="nav-item"><a href="https://www.fitindiatrust.org/trainers/">Trainers</a></li>-->
+                                   <li class="nav-item"><a href="https://www.fitindiatrust.org/contact-us/">Contact Us</a></li>
+                                </ul>
+                            </div>
+                            <!-- right icon -->
+                        </nav> <!-- nav -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div>
+    </header>    
+    <!--====== HEADER PART ENDS ======-->
+   
+
+    <!--====== SEARCH BOX PART START ======-->    
+  
+<style>
+.que
+{
+    font-weight:600;
+}
+.other-que
+{
+    padding-top:2%;
+}
+.quot-modal-content {
+	background:url('https://www.fitindiatrust.org/fit_assets/img/get-quot-bg.jpg');
+	width: 100%;
+    background-position: center;
+    background-size: cover;
+	border: 0;
+    border-radius: .125rem;
+    -webkit-box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+    box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+}
+.modal-content {
+	background:url('https://www.fitindiatrust.org/fit_assets/img/mm.jpg');
+	width: 100%;
+    background-position: center;
+    background-size: cover;
+	border: 0;
+    border-radius: .125rem;
+    -webkit-box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+    box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+}
+.modal-body {
+    position: relative;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1rem;
+}
+.text-white {
+    color: #fff !important;
+}
+.card {
+    font-weight: 400;
+    border: 0;
+    -webkit-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+.quot-modal-content {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: .3rem;
+    outline: 0;
+}.modal-content {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: .3rem;
+    outline: 0;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,0.125);
+    border-radius: .25rem;
+}
+.modal-dialog {
+width:500px !important;
+height:600px;
+    position: relative;
+    width: auto;
+margin-left: 32%;
+    pointer-events: none;
+}
+.md-form {
+    position: relative;
+  
+}
+.mb-5, .my-5 {
+    margin-bottom: 3rem !important;
+}
+.md-form input:not([type]), .md-form input[type="text"]:not(.browser-default), .md-form input[type="password"]:not(.browser-default), .md-form input[type="email"]:not(.browser-default), .md-form input[type="url"]:not(.browser-default), .md-form input[type="time"]:not(.browser-default), .md-form input[type="date"]:not(.browser-default), .md-form input[type="datetime"]:not(.browser-default), .md-form input[type="datetime-local"]:not(.browser-default), .md-form input[type="tel"]:not(.browser-default), .md-form input[type="number"]:not(.browser-default), .md-form input[type="search"]:not(.browser-default), .md-form input[type="phone"]:not(.browser-default), .md-form input[type="search-md"], .md-form textarea.md-textarea {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+}
+.md-form .form-control {
+    -webkit-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+}
+.md-form .validate {
+    margin-bottom: 2.5rem;
+}
+.md-form .form-control {
+    height: auto;
+   
+    margin: 0 0 .5rem 0;
+    background-color: transparent;
+    border-radius: 0;
+}
+.white-text, .dropdown .dropdown-menu .dropdown-item:hover, .dropdown .dropdown-menu .dropdown-item:active, .dropup .dropdown-menu .dropdown-item:hover, .dropup .dropdown-menu .dropdown-item:active, .dropleft .dropdown-menu .dropdown-item:hover, .dropleft .dropdown-menu .dropdown-item:active, .dropright .dropdown-menu .dropdown-item:hover, .dropright .dropdown-menu .dropdown-item:active, .side-nav, .side-nav .search-form .form-control, .side-nav2, .side-nav2 .search-form .form-control, .md-toast-message a, .md-toast-message label, .md-toast-close-button, #toast-container>div, .clockpicker_container.clockpicker .picker__box .clockpicker-am-pm-block .active, .picker__list-item--selected, .picker__list-item--selected:hover, .picker--focused .picker__list-item--selected, .picker--time .picker__button--clear:hover, .picker--time .picker__button--clear:focus, .picker--time .picker__button--clear:hover::before, .picker--time .picker__button--clear:focus::before, .picker__date-display, .picker__date-display .clockpicker-display .clockpicker-display-column .clockpicker-span-hours.text-primary, .picker__date-display .clockpicker-display .clockpicker-display-column .clockpicker-span-minutes.text-primary, .picker__date-display .clockpicker-display .clockpicker-display-column #click-am.text-primary, .picker__date-display .clockpicker-display .clockpicker-display-column #click-pm.text-primary, .clockpicker-display .clockpicker-display-column .clockpicker-span-hours.text-primary, .clockpicker-display .clockpicker-display-column .clockpicker-span-minutes.text-primary, .clockpicker-display .clockpicker-display-column #click-am.text-primary, .clockpicker-display .clockpicker-display-column #click-pm.text-primary, .darktheme .picker__box .picker__date-display .clockpicker-display, .darktheme .picker__box .picker__date-display .clockpicker-display .clockpicker-span-am-pm, .darktheme .picker__box .picker__calendar-container .clockpicker-plate .clockpicker-tick, .darktheme .picker__box .picker__footer button, .picker__box .picker__header .picker__date-display, .picker__box .picker__table .picker__day--outfocus, .picker__box .picker__table .picker__day--selected, .picker__box .picker__table .picker__day--selected:hover, .picker__box .picker__table .picker--focused {
+    color: #fff !important;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+button, input {
+    overflow: visible;
+}
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+.form-dark .md-form label {
+    color: #fff;
+}
+
+.md-form>label {
+    max-width: 100%;
+    white-space: nowrap;
+   
+    text-overflow: ellipsis;
+}
+.md-form label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 16px;
+    color: #fff;
+    cursor: text;
+    -webkit-transition: color .2s ease-out,-webkit-transform .2s ease-out;
+    transition: color .2s ease-out,-webkit-transform .2s ease-out;
+    transition: transform .2s ease-out,color .2s ease-out;
+    transition: transform .2s ease-out,color .2s ease-out,-webkit-transform .2s ease-out;
+    -webkit-transform: translateY(12px);
+    transform: translateY(12px);
+    -webkit-transform-origin: 0 100%;
+    transform-origin: 0 100%;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+	font-weight: 300 !important;
+	line-height:10px;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.pb-3, .py-3 {
+    padding-bottom: 1rem !important;
+}
+.mt-4, .my-4 {
+    margin-top: 1.5rem !important;
+}
+.align-items-center {
+    -ms-flex-align: center !important;
+    align-items: center !important;
+}
+.d-flex {
+    display: -ms-flexbox !important;
+    display: flex !important;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.rgba-stylish-strong {
+    background-color: rgb(0 0 0 / 23%)
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: pink;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: pink;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: pink;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: pink;
+}
+.modal-header
+{
+border-bottom:none !important;
+}
+
+  @media screen and (max-width: 768px) {
+.quot-modal-content {
+	
+  width: 70%;
+  top:0%;
+}
+.modal-content {
+	
+  width: 70%;
+  top:0%;
+}
+.modal-dialog {
+width:450px !important;
+height:500px;
+    position: relative;
+    width: auto;
+margin-left: 6%;
+    pointer-events: none;
+}
+.mb-5, .my-5 {
+    /*check this*/
+    margin-bottom: 1rem !important;
+}
+  }
+  @media screen and (max-width: 480px) {
+ .quot-modal-content {
+	
+  width: 70%;
+  top:25%;
+}.modal-content {
+	
+  width: 70%;
+  top:25%;
+}
+.modal-dialog {
+width:470px !important;
+height:500px;
+    position: relative;
+    width: auto;
+margin-left: 10%;
+    pointer-events: none;
+}
+.mb-5, .my-5 {
+      /*check this*/
+    margin-bottom: 1rem !important;
+}
+  }
+  .modal_headline
+  {
+      font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #104462;
+    margin: 0px;
+    font-family: 'Roboto slab';
+  }
+</style>
+<!--====== SEARCH BOX PART ENDS ======-->
+
+ 
+ 
+  <!--====== Breadcumb START ======-->
+  <section id="slider-part" class="pt-150 pb-150 bg_cover" data-overlay="8" style="background-image: url(https://www.fitindiatrust.org/fit_assets/img/courses.png)">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="page-banner-cont">
+            <h1>Our Courses</h1>             
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <section class="top-2">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <ol class="breadcrumb">
+               <li class="breadcrumb-item"><a href="https://www.fitindiatrust.org/">Home</a></li>
+            <li class="breadcrumb-item"><a href="https://www.fitindiatrust.org/courses">Our Courses</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Certified Personal Trainer</li>
+          </ol>
+        </div> 
+      </div>
+    </div>
+  </section>
+  <!--====== Breadcumb ENDS ======-->
+  
+  <!--====== START body section ======-->
+  <section id="courses-single" class="pt-50 pb-40 top-90">
+    <div class="container">
+      <div class="row"> 
+        <!-- left section -->
+        <div class="col-lg-9">
+          <div class="courses-single-left mt-30">
+            <div class="title">
+              <h3>Certified Personal Trainer</h3>
+            </div>
+            <!-- title -->
+            <div class="top-course-content">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-12---">
+                    <div class="course-terms">
+                            <ul class="inline">
+                                <li>
+<!--                                    <div class="teacher-name"> 
+                                        <div class="thum">
+                                            <img src="https://www.fitindiatrust.org/fit_assets/img/course/teacher/t-1.jpg" alt="Teacher">
+                                        </div>
+                                        <div class="name">
+                                            <span>Teacher</span>
+                                            <h6><a href="#">Hinata Hyuga</a></h6>
+                                        </div>
+                                    </div> -->
+                                </li>
+                                <li>
+                                    <div class="course-category">
+                                        <span>Mode</span>
+                                        <h6><a href="#">Offline</a></h6>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="review">
+                                        <span>Review</span>
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-star"></i></a></li>
+                                            <li class="rating">(78 Reviews)</li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li>
+<!--                                    <div class="price">
+                                        <span><del></del></span>
+                                        <h6><i class="fa fa fa-inr"></i>35000 </h6>
+                                    </div>-->
+                                </li>
+                            </ul>
+                   <!--  <i class="fa fa-clock-o" style="color:#5fbff9;height:40px;padding-right:1%;"> <span style="color:#999;"> Duration: 6 Months |</span></i> <i class="fa fa fa-clone" style="color:#5fbff9;height:40px;padding-right:1%;"> <span style="color:#999;"> Mode : Online |</span></i> <i class="fa fa fa-inr" style="color:#5fbff9;height:40px;padding-right:1%;"> <span style="font-size:28px;color:black;font-weight:400;">65000</span> </i>  -->
+                   <div class="btn-tp">
+                    <a href="#" onclick="document.getElementById('id02').style.display='block'" style="width:auto;" class="main-btn">REQUEST PRICING</a>
+                   <!--  <a href="https://www.fitindiatrust.org/fitness-academy/checkout/34" class="main-btn">ENROLL NOW</a> -->
+                    <a href="https://www.fitindiatrust.org/courses/" class="main-btn">OTHER COURSES</a>
+                    <a href="#" class="main-btn">DOWNLOAD BROCHURE</a>
+                 </div>
+                 </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="courses-single-image pt-50"> <img src="https://www.fitindiatrust.org/fit_assets/img/course/Certified Personal Trainer_new.png" alt="Courses"> </div>
+            <!-- courses single image -->
+            <div class="courses-tab mt-30">
+              <ul class="nav nav-justified" id="myTab" role="tablist">
+                <li class="nav-item"> <a class="active" id="overview-tab" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true"><i class="fa fa-bookmark"></i> Overview</a> </li>
+                <li class="nav-item"> <a id="curriculum-tab" data-toggle="tab" href="#curriculum" role="tab" aria-controls="curriculum" aria-selected="false"><i class="fa fa-cube"></i> Curriculum</a> </li>
+                <li class="nav-item"> <a id="reviews-tab" data-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false"><i class="fa fa-comments"></i> Q & A</a> </li>
+              </ul>
+              <div class="tab-content" id="myTabContent">
+                <div class="tab-pane fade show active" id="overview" role="tabpanel" aria-labelledby="overview-tab">
+                  <div class="overview-description row">
+                    <div class="col-md-8">
+                      <div class="single-description pt-40">
+<h6>Why Personal Trainer Certification is Important?</h6>
+
+<p class="text-justify">Earning a recognized certification will give you better opportunities in your fitness career. Personal Trainer certification provides additional and useful knowledge that boosts your chances of getting a good job or be a successful personal trainer. Benefits of this certification are:-</p>
+
+<ul class="pt-15">
+	<li>● Increase in practical skills and knowledge</li>
+	<li>● Career advancement</li>
+	<li>● A rise in competitive advantage and efficiency</li>
+	<li>● Increase in professional credibility</li>
+	<li>● Growth in earning potential</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>Course Benefits and Career Opportunities.</h6>
+
+<p class="text-justify">Key facilities that are available in this course are:-</p>
+
+<ul class="pt-15">
+	<li>● Batch Flexibility Options- We value your time; thus, we provide you with batch flexibility that lets you schedule batch location as per your availability.</li>
+	<li>● Practical learning approach- We have a balanced mix of theoretical and practical teaching</li>
+	<li>● Opportunity to interact with certified known faculties- Highly recognized, certified and experienced faculties are going to mentor and guide you.</li>
+</ul>
+
+<p class="text-justify">This course has amazing lifelong benefits as well, such as:-</p>
+
+<ul class="pt-15">
+	<li>● Lifetime placement assistance</li>
+	<li>● Lifetime FIT Membership</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>Why Apply for a Certified Personal Trainer Course?</h6>
+
+<ul class="pt-15">
+	<li>● As people are so busy these days they hardly have any time to go to a gym and have a workout session instead they look out for personal trainers who can help them reach their fitness goals at the comfort of their home or at a local gym nearby, which led to the demand of certified personal trainers who could train busy professionals and help them reach their fitness goals.</li>
+	<li>● There is a lot of competition in the market among gym trainers to attract clients, thus it is required to apply for a certified personal trainer course to have better job opportunities and stay one step ahead of others.</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>Where do we have our centers?</h6>
+
+<ul class="pt-15">
+	<li>● We have our centers in Delhi/NCR, you can apply for a certified personal trainer course in Delhi, Noida, and Gurugram. Fit India Trust is also working to create new centers in small cities of India to increase the employment power of the individuals and provide affordable education to gym trainers across India.</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>Benefits of the FIT-CPT course?</h6>
+
+<ul class="pt-15">
+	<li>● There are numerous benefits of completing the FIT-CPT Course that include lifetime CPT certificate, placement assistance, and preparation of ACE Personal Trainer Certification Course which allows you to apply for ACE-CPT competitive exams which are accepted Internationally.</li>
+</ul>
+</div>
+                    </div>
+                    <div class="col-md-4 pt-70">
+                      <div class="right-sec">
+                        <h4>Course Features</h4>
+                        <div class="events-address mt-20">
+                          <ul>
+                          
+                          
+                            <li>
+                              <div class="single-address">
+                                <div class="icon"> <i class="fa fa-clock-o"></i> </div>
+                                <div class="cont">
+                                  <h6><a href="#">Duration</a></h6>
+                                  <span>2.5 months</span> </div>
+                              </div>
+                              <!-- single address --> 
+                            </li>
+                            <li>
+                              <div class="single-address">
+                                <div class="icon"> <i class="fa fa fa-clone"></i> </div>
+                                <div class="cont">
+                                  <h6><a href="#">Language</a></h6>
+                                  <span> Hindi/English</span> </div>
+                              </div>
+                              <!-- single address --> 
+                            </li>
+
+                            <li>
+                              <div class="single-address">
+                                <div class="icon"> <i class="fa fa-book"></i> </div>
+                                <div class="cont">
+                                  <h6><a href="#">Certificates</a></h6>
+                                  <span>5</span> </div>
+                              </div>
+                              <!-- single address --> 
+                            </li>
+                            <li>
+                              <div class="single-address">
+                                <div class="icon"> <i class="fa fa-calendar"></i> </div>
+                                <div class="cont">
+                                  <h6><a href="#">Assessments</a></h6>
+                                  <span>Yes</span> </div>
+                              </div>
+                              <!-- single address --> 
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- overview description --> 
+                </div>
+                <div class="tab-pane fade" id="curriculum" role="tabpanel" aria-labelledby="curriculum-tab">
+                  <div class="curriculum-cont">
+                   
+                  <div class="single-description pt-40">
+<h6>Introduction</h6>
+
+<ul class="pt-15">
+	<li>Role and Scope of Practice for the Personal Trainer.</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>Leadership and Implementation</h6>
+
+<ul class="pt-15">
+	<li>Principles of Adherence and Motivation.</li>
+	<li>Communication and Teaching Techniques.</li>
+	<li>Basics of Behavior Change and Health Psychology.</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>The ACE Integrated Fitness Model</h6>
+
+<ul class="pt-15">
+	<li>Introduction to the ACE Integrated Fitness Training Model.</li>
+	<li>Building Rapport and the Initial Investigation Stage.</li>
+	<li>Functional Assessments: Posture, Movement, Core, Balance, and Flexibility.</li>
+	<li>Physiological Assessments.</li>
+	<li>Functional Programming for Stability-Mobility and Movement</li>
+	<li>Resistance Training: Programming and Progressions</li>
+	<li>Cardiorespiratory Training: Programming and Progressions</li>
+	<li>The ACE Integrated Fitness Training Model in Practice</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>Special Exercise Programming Topics</h6>
+
+<ul class="pt-15">
+	<li>Mind-body Exercise.</li>
+	<li>Exercise and Special Populations.</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>Injury Prevention and First Aid</h6>
+
+<ul class="pt-15">
+	<li>Common Musculoskeletal Injuries and Implications for Exercise</li>
+	<li>Emergency Procedures</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>Professional and Legal Responsibilities and Business Strategies</h6>
+
+<ul class="pt-15">
+	<li>Legal Guidelines and Professional.</li>
+	<li>Personal-training Business Fundamentals.</li>
+	<li>Code of Ethics.</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>2 Certification Workshop</h6>
+
+<ul class="pt-15">
+	<li>Special Population.</li>
+	<li>Supplement.</li>
+</ul>
+</div>
+
+<div class="single-description pt-40">
+<h6>Communication Skills Certificate</h6>
+</div>
+                  
+                
+                
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="reviews" role="tabpanel" aria-labelledby="reviews-tab">
+                  <div class="reviews-cont">
+                    <div class="title">
+                    <div class="first-que">
+                       <span class="que">Q. How do I become a certified Personal trainer in India?</span>
+                      <p>Having a certification from a recognized organization is a prerequisite for entering the fitness industry. Once you've decided that becoming a personal trainer is right for you, the first step is choosing a certification program. Fit India Trust offers a variety of <a href="https://www.fitindiatrust.org/fitness-academy/fitness-trainer-certification">fitness training courses</a> with written and practical examinations.</p>
+                    </div>
+                     <div class="other-que">
+                    <span class="que">Q. What are the benefits of a Certified Personal trainer?</span>
+                    <p>Having your personal training certification means you have learned the fundamentals of fitness, movement, exercise science, training, and coaching. Trainer certification also proves you have the knowledge base necessary to help clients meet their goals safely and effectively.
+-Whether you are offering one-to-one training, boot camps, or aerobics classes, you control what you earn.
+-Controlling your earnings and your hours, you become your boss as a personal trainer.</p>
+ </div>
+ <div class="other-que">
+ <span class="que">Q. How is Fit India Trust different from any other fitness training institute in India?</span>
+<p>We cannot compare Fit India Trust with other institutes as this would be unfair to comment upon Fit India Trust and other institute's effort. We can say that Fit India Trust has rapidly covered most parts of the country in a concise period by constantly providing the fitness industry with well-educated exercise science professionals. On the other side, Fit India Trust courses are budget-friendly as we understand the monetary factors involved and the financial struggles which our students undergo while pursuing any course.</p>
+        </div>     <div class="other-que">     
+                  <span class="que">Q.If I don't clear examinations, will I get a certificate?</span>
+<p>To maintain and preserve the reputation of the Fit India Trust certifications and ensure that employers across the country trust the accreditation, we do not offer any participation certificate that a candidate could misuse to pretend that they have passed our examinations. Successful completion of all exams is compulsory for certification in all the courses offered by Fit India Trust.
+</p></div> <div class="other-que">
+ <span class="que">Q. Can I pay the course fees in parts?</span>
+<p>Yes, the fees for the courses at Fit India trust can be paid in 3 Easy Installments without any additional charges.
+Do get in touch with our Course Counselor by calling on 7999567519 for more information on the course fees and payment options.
+ </p>  
+ </div>
+                    </div>
+                  </div>
+                  <!-- reviews cont --> 
+                </div>
+              </div>
+              <!-- tab content --> 
+            </div>
+          </div>
+          <!-- courses single left --> 
+        </div>
+        <!-- Course Features  -->
+        <div class="col-lg-3">
+          <div class="row">
+            <div class="col-lg-12 col-md-6 sidebar">
+              <div class="categories mt-30">
+                <h3 style="font-size:18px;">All Courses</h3>
+                <ul>
+				                  <li><a href="https://www.fitindiatrust.org/fitness-academy/international-fitness-trainer">International Fitness Trainer</a></li>
+                                   <li><a href="https://www.fitindiatrust.org/fitness-academy/fitness-trainer-certification">Certified Fitness Trainer</a></li>
+                                   <li><a href="https://www.fitindiatrust.org/fitness-academy/fitness-nutrition-course">Fitness Nutrition Course</a></li>
+                                   <li><a href="https://www.fitindiatrust.org/fitness-academy/personal-trainer-certification">Certified Personal Trainer</a></li>
+                                 </ul>
+              </div>
+            </div>
+            <div class="col-lg-12 col-md-6 sidebar">
+              <div class="sidebar-post mt-60">
+                <h3 style="font-size:18px;">Latest Workshop</h3>
+                <ul>
+				                  <li> <a href="#">
+                    <div class="single-post">
+                      <div class="thum"> <img src="https://www.fitindiatrust.org/fit_assets/img/workshop/olympic.jpg" alt="Blog" style="height:80px;"> </div>
+                      <div class="cont">
+                        <h6 style="font-size:13px;">Functional Training Level 2 </h6>
+                        </div>
+                    </div>
+                    <!-- single post --> 
+                    </a> </li>
+                                <li> <a href="#">
+                    <div class="single-post">
+                      <div class="thum"> <img src="https://www.fitindiatrust.org/fit_assets/img/workshop/olympic.jpg" alt="Blog" style="height:80px;"> </div>
+                      <div class="cont">
+                        <h6 style="font-size:13px;">Functional Training workshop, Level - 1 </h6>
+                        </div>
+                    </div>
+                    <!-- single post --> 
+                    </a> </li>
+                                <li> <a href="#">
+                    <div class="single-post">
+                      <div class="thum"> <img src="https://www.fitindiatrust.org/fit_assets/img/workshop/olympic.jpg" alt="Blog" style="height:80px;"> </div>
+                      <div class="cont">
+                        <h6 style="font-size:13px;">Social Media Management Workshop for Trainer </h6>
+                        </div>
+                    </div>
+                    <!-- single post --> 
+                    </a> </li>
+                                <li> <a href="#">
+                    <div class="single-post">
+                      <div class="thum"> <img src="https://www.fitindiatrust.org/fit_assets/img/workshop/olympic.jpg" alt="Blog" style="height:80px;"> </div>
+                      <div class="cont">
+                        <h6 style="font-size:13px;">Body Weight Management Workshop, Hyderabad </h6>
+                        </div>
+                    </div>
+                    <!-- single post --> 
+                    </a> </li>
+                                <li> <a href="#">
+                    <div class="single-post">
+                      <div class="thum"> <img src="https://www.fitindiatrust.org/fit_assets/img/workshop/olympic.jpg" alt="Blog" style="height:80px;"> </div>
+                      <div class="cont">
+                        <h6 style="font-size:13px;">Obesity & Weight Management Exercise Speacialist  </h6>
+                        </div>
+                    </div>
+                    <!-- single post --> 
+                    </a> </li>
+                             
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-12 col-md-6">
+              <div class="You-makelike mt-60">
+                <h3 style="font-size:18px;">You may like Our Blogs</h3>
+	               
+			   <div class="single-makelike mt-20">
+                  <div class="image"> <img src="https://www.fitindiatrust.org/uploads/blogs/Trainerr.webp" alt="Image" style="height:80px;"> </div>
+                  <div class="cont"> <a href="https://www.fitindiatrust.org/blog/Why-Professional-Certifications-are-necessary">
+                    <h6 style="color:white;">Why Professional Certifications are necessary</h6>
+                    </a>
+                    <ul>
+                   
+                    </ul>
+                  </div>
+                </div>
+           
+	               
+			   <div class="single-makelike mt-20">
+                  <div class="image"> <img src="https://www.fitindiatrust.org/uploads/blogs/Traineer.webp" alt="Image" style="height:80px;"> </div>
+                  <div class="cont"> <a href="https://www.fitindiatrust.org/blog/How-can-a-Personal-Trainer-increase-their-earning">
+                    <h6 style="color:white;">How can a Personal Trainer increase their earning potential?</h6>
+                    </a>
+                    <ul>
+                   
+                    </ul>
+                  </div>
+                </div>
+           
+	               
+			   <div class="single-makelike mt-20">
+                  <div class="image"> <img src="https://www.fitindiatrust.org/uploads/blogs/Personall.webp" alt="Image" style="height:80px;"> </div>
+                  <div class="cont"> <a href="https://www.fitindiatrust.org/blog/Build-Your-Career-in-the-Fitness-Industry">
+                    <h6 style="color:white;">Build Your Career in the Fitness Industry?</h6>
+                    </a>
+                    <ul>
+                   
+                    </ul>
+                  </div>
+                </div>
+           
+	               
+			   <div class="single-makelike mt-20">
+                  <div class="image"> <img src="https://www.fitindiatrust.org/uploads/blogs/Tracker-banner.webp" alt="Image" style="height:80px;"> </div>
+                  <div class="cont"> <a href="https://www.fitindiatrust.org/blog/Statistics-estimate-the-fitness-tracker-market-might-reach-USD-5-billion-in-5-years">
+                    <h6 style="color:white;">Statistics estimate the fitness tracker market might reach USD 5 billion in 5 years.</h6>
+                    </a>
+                    <ul>
+                   
+                    </ul>
+                  </div>
+                </div>
+           
+	               
+			   <div class="single-makelike mt-20">
+                  <div class="image"> <img src="https://www.fitindiatrust.org/uploads/blogs/Virtualfitness3.png" alt="Image" style="height:80px;"> </div>
+                  <div class="cont"> <a href="https://www.fitindiatrust.org/blog/Tips-on-how-to-engage-fitness-clients-through-virtual-meeting">
+                    <h6 style="color:white;">Tips on how to engage fitness clients through virtual meeting</h6>
+                    </a>
+                    <ul>
+                   
+                    </ul>
+                  </div>
+                </div>
+           
+	              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- row --> 
+      
+
+      <!-- you may like start -->
+      <div class="pt-100">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <div class="section-title pb-10"> 
+                        <h3 style="font-size:18px;"> Other Courses </h3>
+                    </div> <!-- section title -->
+                </div> 
+            </div> <!-- row -->
+            <div class="row justify-content-center">
+              <!-- 1 -->
+			                  <div class="col-lg-3 col-md-6 col-sm-8">
+                    <div class="single-publication mt-30 text-center">
+                        <div class="image">
+                            <img src="https://www.fitindiatrust.org/fit_assets/img/course/International Fitness Training Program_new_thumb.png" alt="Publication">
+                            <div class="add-cart">
+                                <ul>
+                                          <li><a href="https://www.fitindiatrust.org/fitness-academy/international-fitness-trainer" class="main-btn">Read More</a></li>
+                             
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="between-circle" >
+                            
+                         <img src="https://www.fitindiatrust.org/fit_assets/img/icon/3.jpg" alt="" style="height:40px;width:40px;"/>
+                        </div>
+
+                        <div class="content" >
+                            <p class="writer-name"> </p>
+                            <h5 class="book-title" style="height:80px;"><a href="https://www.fitindiatrust.org/fitness-academy/international-fitness-trainer">International Fitness Trainer</a></h5>
+                            <!--<div class="price-btn">
+                                <div class="price"> 
+                                    <div class="normal-price"><del style="color:#999">Rs. 55000</del>Rs. 50000</div>
+                                </div> 
+                            </div>-->
+                        </div>
+                    </div> 
+                </div>
+										                <div class="col-lg-3 col-md-6 col-sm-8">
+                    <div class="single-publication mt-30 text-center">
+                        <div class="image">
+                            <img src="https://www.fitindiatrust.org/fit_assets/img/course/Fitness Nutrition Course_new_thumb.png" alt="Publication">
+                            <div class="add-cart">
+                                <ul>
+                                          <li><a href="https://www.fitindiatrust.org/fitness-academy/fitness-nutrition-course" class="main-btn">Read More</a></li>
+                             
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="between-circle" >
+                            
+                         <img src="https://www.fitindiatrust.org/fit_assets/img/icon/3.jpg" alt="" style="height:40px;width:40px;"/>
+                        </div>
+
+                        <div class="content" >
+                            <p class="writer-name"> </p>
+                            <h5 class="book-title" style="height:80px;"><a href="https://www.fitindiatrust.org/fitness-academy/fitness-nutrition-course">Fitness Nutrition Course</a></h5>
+                            <!--<div class="price-btn">
+                                <div class="price"> 
+                                    <div class="normal-price"><del style="color:#999"></del>Rs. 25000</div>
+                                </div> 
+                            </div>-->
+                        </div>
+                    </div> 
+                </div>
+										                <div class="col-lg-3 col-md-6 col-sm-8">
+                    <div class="single-publication mt-30 text-center">
+                        <div class="image">
+                            <img src="https://www.fitindiatrust.org/fit_assets/img/course/Certified Fitness Trainer_new_thumb.png" alt="Publication">
+                            <div class="add-cart">
+                                <ul>
+                                          <li><a href="https://www.fitindiatrust.org/fitness-academy/fitness-trainer-certification" class="main-btn">Read More</a></li>
+                             
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="between-circle" >
+                            
+                         <img src="https://www.fitindiatrust.org/fit_assets/img/icon/3.jpg" alt="" style="height:40px;width:40px;"/>
+                        </div>
+
+                        <div class="content" >
+                            <p class="writer-name"> </p>
+                            <h5 class="book-title" style="height:80px;"><a href="https://www.fitindiatrust.org/fitness-academy/fitness-trainer-certification">Certified Fitness Trainer</a></h5>
+                            <!--<div class="price-btn">
+                                <div class="price"> 
+                                    <div class="normal-price"><del style="color:#999"></del>Rs. 20000</div>
+                                </div> 
+                            </div>-->
+                        </div>
+                    </div> 
+                </div>
+										                <!-- 2 -->
+                
+                <!-- 3 -->
+                
+                <!-- 4 -->
+                <div class="col-lg-3 col-md-6 col-sm-8">
+                    <div class="single-publication mt-30 text-center">
+                        <div class="image">
+                            <img src="https://www.fitindiatrust.org/fit_assets/img/M&M_subscription.png" alt="Publication">
+                            <div class="add-cart">
+                                <ul>
+                                    <li><button onclick="document.getElementById('id01').style.display='block'" style="width:auto;" class="main-btn">Read More</button></li>
+                                </ul>
+                            </div>
+                        </div> 
+                    </div> <!-- single publication -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </div>
+      <!-- you may like end --> 
+    </div>
+  </section>
+  <!--====== ENDS body section ======--> 
+
+
+ 
+
+<!-- bottom bar start -->
+<div class="d-none d-sm-block">
+    <div class="course-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="courses-tab second">
+                        <ul class="nav nav-justified" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="active show" id="overview-tab" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Overview</a>
+                            </li>
+                            <li class="nav-item">
+                                <a id="curriculum-tab" data-toggle="tab" href="#curriculum" role="tab" aria-controls="curriculum" aria-selected="false" class="">Curriculum</a>
+                            </li> 
+                            <li class="nav-item">
+                                <a id="reviews-tab" data-toggle="tab" href="#reviews" role="tab" aria-controls="reviews" aria-selected="false" class="">Q&A</a>
+                            </li>
+                        </ul> 
+                    </div>
+                </div>
+                <div class="col-md-1">&nbsp;</div>
+                <div class="col-md-7 dis-inline">
+                    <div class="pull-right">
+                      <!--  <div class="rs">
+                            <p><del></del></p>
+                            <h3>Rs. 35000</h3>
+                        </div>  -->
+                        <div class="add-cart-btn">
+                           <!-- <a href="https://www.fitindiatrust.org/fitness-academy/checkout/34" class="main-btn">ENROLL NOW</a>
+                            -->
+                            <a href="#" onclick="document.getElementById('id02').style.display='block'" style="width:auto;" class="main-btn">REQUEST PRICING</a>
+                       </div>
+                        <div class="buy-membership-btn">
+                            <a href="https://www.fitindiatrust.org/courses/" class="main-btn">OTHER COURSES</a>
+                        </div>
+                        <div class="buy-membership-btn">
+                           
+                    <a href="#" class="main-btn">DOWNLOAD BROCHURE</a>
+                    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--MODAL FOR GET QUOT-->
+
+<div id="id02" class="modal" style="background: #00000059;" >
+ <form method="post" action="https://www.fitindiatrust.org/fitness-academy/get_course_price">
+ <div class="modal-dialog" role="document">
+    <div class="quot-modal-content">
+   
+	 <div class="text-white rgba-stylish-strong  z-depth-4">
+                <!--Header-->
+                <div class="modal-header text-center pb-4">
+                    <p class="modal_headline">Interested in our Certified Personal Trainer ?</br>
+                    Fill out the form below and one of our fitness experts will get in touch with you shortl ! </p>
+                  <button type="button" class="close white-text" onclick="document.getElementById('id02').style.display='none'" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                  </button>
+                </div>
+                <!--Body-->
+                <div class="modal-body">
+                  <!--Body-->
+                  <div class="md-form ">
+				  <span>Your Name *</span>
+                    <input type="text" id="modalFormDarkInput1" name="enquiry_name" required class="form-control validate white-text" >
+                  
+                  </div>
+
+                  <div class="md-form ">
+				   <span>Your Email *</span>
+                    <input type="email" id="modalFormDarkInput2" name="enquiry_email" required class="form-control validate white-text" >
+                 
+                  </div>
+				<div class="md-form ">
+				   <span>Your Contact No *</span>
+                    <input type="text" id="modalFormDarkInput2" name="enquiry_phone" required class="form-control validate white-text" >
+                 
+                  </div>
+				  <div class="md-form">
+				   <span>City </span>
+                    <input type="text" id="modalFormDarkInput2" name="enquiry_city"  class="form-control validate white-text" >
+                 
+                  </div>
+                  <div class="md-form">
+				   <span>Pincode </span>
+                    <input type="text" id="modalFormDarkInput2" name="enquiry_pincode"  class="form-control validate white-text" >
+                 <input type="hidden" name="course_name" value="Certified Personal Trainer">
+                  </div>
+                  <!--Grid row-->
+                  <div class="row d-flex align-items-center mb-4">
+
+                    <!--Grid column-->
+                    <div class="text-center mb-3 col-md-12">
+                      <button type="submit" style="background-color: #072d3c78; border-color: #2079a6;" class="btn btn-danger btn-block btn-rounded z-depth-1 waves-effect waves-light">SEND ENQUIRY</button>
+                    </div>
+                    <!--Grid column-->
+
+                  </div>
+                  <!--Grid row-->
+
+                 
+                  <!--Grid row-->
+
+                </div>
+              </div>
+  
+    </div>
+  </div>
+  </form>
+</div>
+
+<!--MODAL FOR GET QUOT END-->
+
+<!--MODAL FOR MUSCLE & MOTION-->
+<div id="id01" class="modal" style="background: #00000059;" >
+ <form method="post" action="https://www.fitindiatrust.org/fitness-academy/mm_subscribe">
+ <div class="modal-dialog" role="document">
+    <div class="modal-content">
+   
+	 <div class="text-white rgba-stylish-strong  z-depth-4">
+                <!--Header-->
+                <div class="modal-header text-center pb-4">
+                  <button type="button" class="close white-text" onclick="document.getElementById('id01').style.display='none'" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                  </button>
+                </div>
+                <!--Body-->
+                <div class="modal-body">
+                  <!--Body-->
+                  <div class="md-form mb-5">
+				  <span>Your Name *</span>
+                    <input type="text" id="modalFormDarkInput1" name="name" required class="form-control validate white-text" >
+                  
+                  </div>
+
+                  <div class="md-form pb-3">
+				   <span>Your Email *</span>
+                    <input type="email" id="modalFormDarkInput2" name="email" required class="form-control validate white-text" >
+                 
+                  </div>
+				<div class="md-form pb-3">
+				   <span>Your Contact No *</span>
+                    <input type="text" id="modalFormDarkInput2" name="phone" required class="form-control validate white-text" >
+                 
+                  </div>
+				  <div class="md-form pb-3">
+				   <span>City *</span>
+                    <input type="text" id="modalFormDarkInput2" name="city" required class="form-control validate white-text" >
+                 
+                  </div>
+                  <!--Grid row-->
+                  <div class="row d-flex align-items-center mb-4">
+
+                    <!--Grid column-->
+                    <div class="text-center mb-3 col-md-12">
+                      <button type="submit" style="background-color: #ae2026; border-color: #ae2026;" class="btn btn-danger btn-block btn-rounded z-depth-1 waves-effect waves-light">Sign up</button>
+                    </div>
+                    <!--Grid column-->
+
+                  </div>
+                  <!--Grid row-->
+
+                 
+                  <!--Grid row-->
+
+                </div>
+              </div>
+  
+    </div>
+  </div>
+  </form>
+</div>
+<!-- bottom bar end -->
+ 
+
+
+<!--====== FOOTER PART START ======-->    
+<div id="float-icons">
+      <!--  <a href="tel:9312-444-411"><span class="fa fa-phone"></span></a> -->
+        <a target="_blank" title="Chat on Whatsapp" href="https://api.whatsapp.com/send?phone=+9193505-81-606&amp;text=Hi, I am Looking For :"><span class="fa fa-whatsapp"></span></a>
+       
+    </div>
+    <!--====== FOOTER PART START ======-->    
+    <footer id="footer-part" style="position:relative;z-index:4;">
+        <div class="footer-top pt-40 pb-70">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3">
+                        <div class="footer-about mt-40">
+                            <div class="logo">
+                                <a href="https://www.fitindiatrust.org/"><img src="https://www.fitindiatrust.org/fit_assets/img/logo-2.png" alt="Logo"></a>
+                            </div>
+                            <p>We provide quality education that meets the contemporary needs of sports and fitness enthusiasts in India. We guide them in acquiring better job opportunities in the industry.</p>
+                            <ul class="mt-20">
+                                <li><a href="https://www.facebook.com/fitindiatrust/"><i class="fa fa-facebook-f"></i></a></li>
+                                <li><a href="https://twitter.com/fitindiatrust"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/fit-india-trust/"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="https://www.instagram.com/fitindiatrust/"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCA2rUhM8ER2X46-YjeWr-rQ"><i class="fa fa-youtube"></i></a></li>
+                            </ul>
+                        </div> <!-- footer about -->
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-2">
+                        <div class="footer-link mt-40">
+                            <div class="footer-title pb-25">
+                                <h6>Quick Links</h6>
+                            </div>
+                            <p class="quick_links_p">
+                                <a href="https://www.fitindiatrust.org/fitness-academy/international-fitness-trainer/">Courses</a></br>
+                            <a href="https://www.fitindiatrust.org/workshop/">Workshop</a></br>
+                            <a href="https://www.fitindiatrust.org/blog/"></i>Blog</a></br>
+                            <a href="https://www.fitindiatrust.org/trainers/"></i>Trainers</a></br>
+                            <a href="https://www.fitindiatrust.org/contact-us/"></i>Contact us</a></br>
+                            <a href="https://www.fitindiatrust.org/fitpros/"></i>Fitpros</a>
+                            </p>
+                           
+                        </div> <!-- footer link -->
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-2">
+                        <div class="footer-link mt-40">
+                            <div class="footer-title pb-25">
+                                <h6>Company</h6>
+                            </div>
+                            <p class="quick_links_p">
+                                <a href="https://www.fitindiatrust.org/terms-conditions/"></i>Terms of Service</a></br>
+                                <a href="https://www.fitindiatrust.org/privacy/"></i>Privacy Policy</a></br>
+                                
+                            </p>
+                           
+                        </div> <!-- footer link -->
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-2">
+                        <div class="footer-link mt-40">
+                            <div class="footer-title pb-25">
+                                <h6>Other Centers</h6>
+                            </div>
+                            <p class="quick_links_p">
+                                <a href="javascript:void(0)"></i>Hyderabad</a></br>
+                                <a href="javascript:void(0)"></i>Pune</a></br>
+                                <a href="javascript:void(0)"></i>Lucknow</a></br>
+                                <a href="javascript:void(0)"></i>Kochi</a></br>
+                                </p>
+                           
+                        </div> <!-- footer link -->
+                    </div>
+                    <div class="col-lg-3 col-md-3">
+                        <div class="footer-address mt-40">
+                            <div class="footer-title pb-25">
+                                <h6>Contact Us</h6>
+                            </div>
+                            <ul>
+                                <li>
+                                    <div class="icon">
+                                        <i class="fa fa-home"></i>
+                                    </div>
+                                    <div class="cont">
+                                        <!--<p>GROUND FLOOR, E - 540, GREATER KAILASH - II, NEW
+                                        DELHI, South Delhi, Delhi, 110049
+                                       </p>-->
+                                        <p>Ground Floor, E - 540, Greater Kailash - II, New
+                                        Delhi, South Delhi, Delhi, 110049
+                                       </p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <i class="fa fa-phone"></i>
+                                    </div>
+                                    <div class="cont">
+                                        <p>+91-7999567519</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <i class="fa fa-envelope-o"></i>
+                                    </div>
+                                    <div class="cont">
+                                        <p ><a style="color:white;" href="mailto:info@fitindiatrust.org">info@fitindiatrust.org</a></p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div> <!-- footer address -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- footer top -->
+        
+        <div class="footer-copyright pt-10 pb-25">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="copyright text-md-left text-center pt-15">
+                            <p>2023 - Fit India Trust.</p>
+                        </div>
+                    </div>
+                    
+                </div> <!-- row -->
+            </div> <!-- container -->
+        </div> <!-- footer copyright -->
+    </footer>    
+    <!--====== FOOTER PART ENDS ======-->
+    </div>
+
+  
+     
+    
+    
+    
+    
+    
+    <!--====== jquery js ======-->
+    <script src="https://www.fitindiatrust.org/fit_assets/js/vendor/modernizr-3.6.0.min.js"></script>
+    <script src="https://www.fitindiatrust.org/fit_assets/js/vendor/jquery-1.12.4.min.js"></script>
+
+    <!--====== Bootstrap js ======-->
+    <script src="https://www.fitindiatrust.org/fit_assets/js/bootstrap.min.js"></script>
+    
+    <!--====== Slick js ======-->
+    <script src="https://www.fitindiatrust.org/fit_assets/js/slick.min.js"></script>
+    
+    <!--====== Magnific Popup js ======-->
+    <script src="https://www.fitindiatrust.org/fit_assets/js/jquery.magnific-popup.min.js"></script>
+    
+    <!--====== Counter Up js ======-->
+    <script src="https://www.fitindiatrust.org/fit_assets/js/waypoints.min.js"></script>
+    <script src="https://www.fitindiatrust.org/fit_assets/js/jquery.counterup.min.js"></script>
+    
+    <!--====== Nice Select js ======-->
+    <script src="https://www.fitindiatrust.org/fit_assets/js/jquery.nice-select.min.js"></script>
+    
+    <!--====== Nice Number js ======-->
+    <script src="https://www.fitindiatrust.org/fit_assets/js/jquery.nice-number.min.js"></script>
+    
+    <!--====== Count Down js ======-->
+    <script src="https://www.fitindiatrust.org/fit_assets/js/jquery.countdown.min.js"></script>
+     
+    <!--====== Main js ======-->
+    <script src="https://www.fitindiatrust.org/fit_assets/js/main.js"></script>
+    
+
+</body>
+ 
+</html>
+	<script>
+	     $(window).on("scroll", function () {
+      var scroll = $(window).scrollTop();
+
+      if (scroll >= 80) {
+      
+		 $('.navbar .navbar-brand img').attr('src','https://www.fitindiatrust.org/fit_assets/img/logo.webp');
+      } else {
+      
+		 $('.navbar .navbar-brand img').attr('src','https://www.fitindiatrust.org/fit_assets/img/logo-2.png');
+      }
+    });
+	</script><script>
+  $(window).on('scroll', function(event) {
+    if($(this).scrollTop() > 550){
+        $('.course-content').fadeIn(200)
+    } else{
+        $('.course-content').fadeOut(200)
+    }
+});    
+</script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Certified Personal Trainer Certification Course",
+  "description": "The Fit India Trust offers a range of fitness courses designed to help individuals achieve their fitness goals and improve their overall health and wellness. Our courses are designed and delivered by experienced fitness professionals, who provide students with the knowledge and skills they need to succeed. In addition to our Certified Personal Trainer Certification Course, we also offer courses in group fitness instruction, yoga instruction, and nutrition coaching. Each course is designed to be flexible and adaptable to meet the needs of students with varying levels of experience and fitness backgrounds. At Fit India Trust, we believe that fitness is for everyone, regardless of age, gender, or fitness level. Our courses are designed to be inclusive and welcoming to all, and our instructors are dedicated to creating a supportive and encouraging learning environment. Whether you are looking to start a career in the fitness industry or simply want to improve your own personal fitness and wellness, the Fit India Trust has a course that is right for you. Begin your path towards a healthier and happier version of yourself by joining us today.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Fit India Trust"
+  },
+  "duration": "P2M10D",
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "name": "Certified Personal Trainer Certification Course",
+    "startDate": "2023-05-01",
+    "endDate": "2023-07-11",
+    "description": "The Certified Personal Trainer Certification Course offered by Fit India Trust is a comprehensive program that prepares individuals to become successful personal trainers. The course covers topics such as exercise science, program design, client assessment, and communication skills. The course is delivered by experienced fitness professionals and includes both online and onsite components. Students will have access to lifetime placement assistance and a FIT membership upon completion of the course.",
+    "location": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://www.fitindiatrust.org/fitness-academy/personal-trainer-certification",
+        "name": "Online"
+      },
+      {
+        "@type": "Place",
+        "name": "Fit India Trust",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ground Floor, E - 540, Greater Kailash - II",
+          "addressLocality": "Delhi",
+          "postalCode": "110049",
+          "addressCountry": "IN"
+        }
+      }
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "Contact us for pricing information",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fit India Trust"
+    }
+  },
+  "occupationalCredentialAwarded": "Certified Personal Trainer",
+  "potentialAction": {
+    "@type": "ReserveAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.fitindiatrust.org/fitness-academy/personal-trainer-certification"
+    },
+    "result": {
+      "@type": "Reservation",
+      "name": "Certified Personal Trainer Certification Course"
+    }
+  }
+}
+</script>
+
